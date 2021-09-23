@@ -1,0 +1,73 @@
+.cabecera{
+	background: red;
+	height:80px ;
+	padding:15px ;
+	font-size: 30pt;
+	text-align: center;
+	padding: 15px;
+}
+.menu{
+	width: 100%;
+	height:40% ;
+	font-size: 20pt;
+	background:black ;
+	border-radius: 5px;
+
+
+}
+.menu_lateral{
+	width: 45%;
+	height:300px;
+	margin-top: 5px;
+	background: pink;
+	border-radio: 5px;
+	text-align: center;
+	float: left;
+}
+.publicacion{
+	width: 53%;
+	float: right;
+	height: 300px;
+	background-color: yellow;
+	border-radius: 5px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	padding: 9px;
+
+}
+.articulo01{
+	width: 100%;
+	height:20px;
+	background: black;
+	margin-top: 1px;
+	margin-left: 1px;
+  text-color:white;
+  padding-bottom:1px;
+}
+.articulo02{
+	width:330PX;
+	height:190px;
+	background: white;
+	float: left;
+  padding-top:2px;
+	
+
+}
+.articulo03{
+	width:330px;
+	height:190px;
+	float: right;
+	background: white;
+	
+
+}
+.pie_de_pagina{
+	background: blue ;
+	width: 100%;
+	height: 60px;
+	font-size: lucida;
+	clear: both;
+	margin-top: 5px;
+	text-align: center;
+	
+}
